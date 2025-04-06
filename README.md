@@ -9,7 +9,7 @@ Tech stack:
 -Python's 'random' module (for pipe generation)
 
 Installation:
-Extract the files from the zipped folder in the release and play the game!
+Extract the files from the zipped folder in the 'Releases' section and play the game!
 
 Personal view:
 This is my first project I've made and I'm very proud of how this turned out.
